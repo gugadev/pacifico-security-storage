@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2600a4d6-f608-408c-8001-622e5b12bcbf" name="Default Changelist" comment="(feature) modify read and write functions">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/security_storage/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/security_storage/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/security_storage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/security_storage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[196e6b2b]" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="alpha_ios" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1hzLp3LvPZpjOLSoqpFiJCnmQUx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ios/Classes" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.example/lib/main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2600a4d6-f608-408c-8001-622e5b12bcbf" name="Default Changelist" comment="" />
+      <created>1601009152416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601009152416</updated>
+    </task>
+    <task id="LOCAL-00001" summary="estable">
+      <created>1606129066691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606129066691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stable">
+      <created>1606385482522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606385482522</updated>
+    </task>
+    <task id="LOCAL-00003" summary="(feature) automatic biometric auth android">
+      <created>1612883908946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612883908946</updated>
+    </task>
+    <task id="LOCAL-00004" summary="(feature) getIconString">
+      <created>1614261602551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614261602552</updated>
+    </task>
+    <task id="LOCAL-00005" summary="(feature) modify read and write functions">
+      <created>1614781210869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614781210869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="(fix) return 'null' value iOS">
+      <created>1614868036804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614868036804</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="estable" />
+    <MESSAGE value="stable" />
+    <MESSAGE value="(feature) automatic biometric auth android" />
+    <MESSAGE value="(feature) isAvailableBiometricBanner" />
+    <MESSAGE value="(feature) getIconString" />
+    <MESSAGE value="(feature) modify read and write functions" />
+    <MESSAGE value="(fix) return 'null' value iOS" />
+    <option name="LAST_COMMIT_MESSAGE" value="(fix) return 'null' value iOS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="18" key="GridCell.Tab.0.bottom" timestamp="1614261626730">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="117" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613686920902" />
+    <state width="1398" height="18" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1614261626730" />
+    <state width="1398" height="18" key="GridCell.Tab.0.center" timestamp="1614261626729">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="117" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613686920901" />
+    <state width="1398" height="18" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1614261626729" />
+    <state width="1398" height="18" key="GridCell.Tab.0.left" timestamp="1614261626729">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="117" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613686920901" />
+    <state width="1398" height="18" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1614261626729" />
+    <state width="1398" height="18" key="GridCell.Tab.0.right" timestamp="1614261626730">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="117" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613686920902" />
+    <state width="1398" height="18" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1614261626730" />
+    <state x="0" y="28" width="1395" height="872" key="Vcs.Push.Dialog.v2" timestamp="1608824691895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="28" width="1395" height="872" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608824691895" />
+    <state x="412" y="205" width="885" height="490" key="find.popup" timestamp="1608732763322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="205" width="885" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1608732763322" />
+    <state x="331" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614889205860">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="331" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.875@0.25.1440.875" timestamp="1614889205860" />
+    <state x="385" y="110" width="670" height="676" key="search.everywhere.popup" timestamp="1614261472279">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="110" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1614261472279" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>95</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/securitystorage/security_storage/SecurityStoragePlugin.kt</url>
+          <line>261</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/securitystorage/security_storage/SecurityStoragePlugin.kt</url>
+          <line>268</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/securitystorage/security_storage/SecurityStoragePlugin.kt</url>
+          <line>273</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/securitystorage/security_storage/SecurityStoragePlugin.kt</url>
+          <line>150</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
